@@ -23,7 +23,7 @@ class Waiter
   def best_tipper
 
     Meals.all.select do |meal|
-      
+
     end
   end
 
