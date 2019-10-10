@@ -24,7 +24,7 @@ class Waiter
 
     Meals.all.select do |meal|
       
-
+    end
   end
 
 end
