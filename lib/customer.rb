@@ -23,5 +23,5 @@ class Customer
     Meal.all.select |meal|
       meal.customer == self
     end
-  
+
 end
